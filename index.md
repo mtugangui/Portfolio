@@ -1,6 +1,6 @@
 # Melissa Tugangui Dieron
 
-### About Me
+## About
 
 I'm a **Software Engineer** located in Austin, TX open for hybrid or remote work. I enjoy spending time bouldering and belaying, spending quality time with my husband and two pups, and working on jigsaw puzzles.
 
@@ -69,6 +69,9 @@ Languages and tools used:
 - AngularJS
 - Java
 
-### Contact Info
+<br>
+<br>
 
-[Linkedin](https://www.linkedin.com/in/melissatugangui/) | [Email](mtugangui@gmail.com)
+## Contact Info
+
+[Linkedin](https://www.linkedin.com/in/melissatugangui/) | <a href="mtugangui@gmail.com">Email: mtugangui@gmail.com</a>
